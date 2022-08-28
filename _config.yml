@@ -27,6 +27,9 @@ url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Fields use by the theme but nor defaultes with the Jekyll new command.
+
+
 # Build settings
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
 # theme: minima
