@@ -13,7 +13,8 @@ source "https://rubygems.org"
 # as the below din't work I'm trying ti with the following
 # gem "jekyll", "~> 4.2.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+# removed minima theme as it is now a regular page, now longer using a gem-based theme
+# gem "minima", "~> 2.5"
 # othe candidate themes to try:
 # Dinky :: https://github.com/pages-themes/dinky
 # Tactile :: https://github.com/pages-themes/tactile
