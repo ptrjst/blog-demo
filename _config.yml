@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Over all title of this page
+title: ptrjst
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here some good but brief descriptions needs to find it's place.
@@ -28,14 +28,19 @@ url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.
 #github_username:  ptrjst
 
 # Fields used by the theme but not defaulted with the Jekyll new command.
+# Default author for everything on this side as it is only mine.
+author: Peter Joost
+# Social media links to the accounts as titles below here
 youtube_username: ptrjst
 instagram_username: ptrjst
+linkedin_username: ptrjst
+github_username: ptrjst
 
 # New fields, not used be default by Jekyll and themes
 # Copyright, copyright symbol and year (auto)
 copyright: "Peter Joost"
 # the main logo of the page
-title-logo: /images/title-logo.png
+title-logo: ./images/title-logo.png
 
 # Build settings
 # removed minima theme as it is now a regular page, now longer using a gem-based theme

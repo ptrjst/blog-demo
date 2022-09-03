@@ -9,8 +9,8 @@
     <!-- New title display code with logo -->
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
-        <img src"{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}">
-        {%- else -%}
+          <img src="{{ site.title-logo | relative_url }}" alt="... just my profile picture">{{ site.title | escape }}
+         {%- else -%}
           {{ site.title | escape }}
       {%- endif -%}
     </a>
