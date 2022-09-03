@@ -10,7 +10,10 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
           <img src="{{ site.title-logo | relative_url }}" alt="... just my profile picture">{{ site.title | escape }}
-         {%- else -%}
+          <!-- a different way would be to link directly to an online source but the _config.yaml also requires a change then 
+          <img src="{{ site.title-logo }}" alt="... just my profile picture">{{ site.title | escape }}
+          -->
+          {%- else -%}
           {{ site.title | escape }}
       {%- endif -%}
     </a>

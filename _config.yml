@@ -41,6 +41,8 @@ github_username: ptrjst
 copyright: "Peter Joost"
 # the main logo of the page
 title-logo: ./images/title-logo.png
+# Below change would allow to use a logo from an online source, requires also change in the header.html
+# title-logo: https://avatars.githubusercontent.com/u/5503293?s=96&v=4
 
 # Build settings
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
