@@ -30,6 +30,15 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+          latest update:
+        <!---
+          The below was added because I want to show/see the latest update date on my site
+        -->
+        <time class="dt-published" datetime="{{ 'now' | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ 'now' | date: date_format }}
+        </time>
+
       </div>
     </div>
 

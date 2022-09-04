@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ptrjst
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Here some good but brief descriptions needs to find it's place.
+# email: your-email@example.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#  Here some good but brief descriptions needs to find it's place.
 baseurl: "/blog-demo" # the subpath of your site, e.g. /blog
 url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ptrjst
@@ -29,14 +29,14 @@ url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.
 
 # Fields used by the theme but not defaulted with the Jekyll new command.
 # Default author for everything on this side as it is only mine.
-author: Peter Joost
-# Social media links to the accounts as titles below here
-youtube_username: ptrjst
-instagram_username: ptrjst
+# author: Peter Joost
+# Social media links to the accounts as below here
+# youtube_username: ptrjst
+# instagram_username: ptrjst
 linkedin_username: ptrjst
 github_username: ptrjst
 
-# New fields, not used be default by Jekyll and themes
+# New fields, not used be default by Jekyll and themes - these required changes to the original minima theme!
 # Copyright, copyright symbol and year (auto)
 copyright: "Peter Joost"
 # the main logo of the page
@@ -46,6 +46,7 @@ title-logo: ./images/title-logo.png
 
 # Build settings
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
+# so not connected to any updates of the original minima theme.
 # theme: minima
 plugins:
   - jekyll-feed

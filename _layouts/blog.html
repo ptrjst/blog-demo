@@ -9,10 +9,12 @@ layout: default
 
   {{ content }}
 
-  <!--- I don't want to show new posts on the home page, therefore commenting this out.
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <!--
+     As I don't need an extra 'Post' heading, this is commented out.
+     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    -->
+     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -31,6 +33,5 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
-  -->
 
 </div>
