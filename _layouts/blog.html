@@ -3,6 +3,14 @@ layout: default
 ---
 
 <div class="home">
+  {% if page.image %}
+    {% if page.image != 'default' %}
+      <img src="{{- page.image | relative_url -}}" alt="" class="header-image">
+    {% else %}
+      {% assign default-image = "/assets/default-image-posts.jpg" %}
+      <img src="{{- default-image | relative_url -}}" alt="" class="header-image">
+    {% endif %}
+  {% endif %}
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}

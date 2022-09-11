@@ -1,7 +1,10 @@
 ---
-layout: page
 title: About
+layout: page
+image: default
 permalink: /about/
+date:   2022-08-29 15:34:38 +0200
+author: Ich ;)
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

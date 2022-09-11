@@ -1,7 +1,9 @@
 ---
-layout: page
 title: New Page two
+layout: page
+image: default
 permalink: /new-page/
+date:   2022-08-29 15:34:38 +0200
 author: someone else
 ---
 
