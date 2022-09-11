@@ -6,19 +6,17 @@
     <!-- Original title display code from the minima theme
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     -->
-    <!-- New title display code with logo -->
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    <!-- New title display code with logo, only title is clickable -->
+    <div class="site-title">
       {%- if site.title-logo -%}
-          <img src="{{ site.title-logo | relative_url }}" alt="... just my profile picture">{{ site.title | escape }}
-          <!-- a different way would be to link directly to an online source but the _config.yaml also requires a change then 
-          <img src="{{ site.title-logo }}" alt="... just my profile picture">{{ site.title | escape }}
-          -->
-          {%- else -%}
-          {{ site.title | escape }}
+        <img src="{{ site.title-logo | relative_url }}" alt="... just my profile picture">
+        <!-- a different way would be to link directly to an online source but the _config.yaml also requires a change then 
+        <img src="{{ site.title-logo }}" alt="... just my profile picture">
+        -->
       {%- endif -%}
-    </a>
-    <!-- end of title or title-logo  -->
-
+      <!-- end of new title display code  -->
+      <a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </div>
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

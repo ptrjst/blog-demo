@@ -1,0 +1,12 @@
+{
+  "spellcheckLanguages": [
+    "de",
+    "en-GB"
+  ],
+  "userIgnoreFilters": [
+    "_includes/",
+    "_layouts/",
+    "_sass/",
+    "_site/"
+  ]
+}

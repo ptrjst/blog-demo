@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "22bdacb58fb3e94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "628d4ff25bc20005",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b041f0f6e7ece9c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "674087c2caedaef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c60a636a841e549",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d964e6be3e70c57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "59e6e28c0a172d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d96a08d1a8a827d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ac2fee3e813ad8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a74293333f2724d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f9ef0b9dc3414f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3fbff3007314adc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "628d4ff25bc20005",
+  "lastOpenFiles": [
+    "2022-09-10.md",
+    "index.md",
+    "about.md",
+    "new-quatsch-page.md",
+    "README.md",
+    "_site/README.md",
+    "assets/minima-social-icons.svg",
+    "images/title-logo.png"
+  ]
+}
