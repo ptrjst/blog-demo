@@ -256,13 +256,13 @@
 
 /**
  * User defined additions
-  max-width: auto;
-  max-height: 100%;
   width: 25px;
   height: 25px;
  */
  .site-title-logo {
-  margin: 20px 10px 0px 0px;
+  max-width: auto;
+  max-height: 40px;
+  margin: 10px 10px 10px 0px;
   object-fit: contain;
   object-position: center center;
   float: left;
