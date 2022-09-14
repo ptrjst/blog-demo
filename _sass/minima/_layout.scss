@@ -258,8 +258,8 @@
  * User defined additions
  */
  .site-title-logo {
-  width: 10px;
-  height: 10px;
+  max-width: auto;
+  max-height: 100%;
   margin: 0px 10px 0px 0px;
   object-fit: contain;
   float: left;
