@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: my little website
-# email: your-email@example.com
-# description: >- # this means to ignore newlines until "baseurl:"
+ email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
   Here some good but brief descriptions needs to find it's place.
 baseurl: "/blog-demo" # the subpath of your site, e.g. /blog
 url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,8 +32,8 @@ url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.
 # Social media links to the accounts as below here
 # youtube_username: account ID
 # instagram_username: account ID
-linkedin_username: "account ID"
-github_username: "account ID"
+linkedin_username: account ID
+github_username: account ID
 
 # New fields, not used by default by Jekyll and themes - these required changes to the original minima theme!
 # Copyright, copyright symbol and year (auto)
