@@ -20,7 +20,7 @@
 title: my little website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Here some good but brief descriptions needs to find it's place.
+>- Here some good but brief descriptions needs to find it's place.
 
 baseurl: "/blog-demo" # the subpath of your site, e.g. /blog
 url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
