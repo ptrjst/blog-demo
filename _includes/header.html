@@ -7,14 +7,16 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     -->
     <!-- New title display code with logo, only title is clickable -->
-    <div class="site-title">
-      {%- if site.title-logo -%}
-        <img src="{{ site.title-logo | relative_url }}" alt="... just my profile picture">
+    {%- if site.title-logo -%}
+      <div class="site-title-logo">
+        <img src="{{ site.title-logo | relative_url }}" alt="... just the logo">
         <!-- a different way would be to link directly to an online source but the _config.yaml also requires a change then 
         <img src="{{ site.title-logo }}" alt="... just my profile picture">
         -->
-      {%- endif -%}
-      <!-- end of new title display code  -->
+      </div>
+    {%- endif -%}
+    <!-- end of new title display code  -->
+    <div class="site-title">
       <a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     </div>
     {%- if page_paths -%}
