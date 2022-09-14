@@ -29,7 +29,7 @@ This file here gets ignored when using the other files as below.
 - `\_posts\2022-08-28-welcome-to-jekyll.md` - example post, copied from the original githup pages publishing
 
 ## other folders and files
-- `_config.yaml` - this is the first file you need to make adjustments in
+- `_config.yaml` - this is the first file you need to personalize to make it your own website
 - `404.html` - just to a valid error page, just in case any links get broken ;)
 - `\images\post-image.jpg` - 
 - `\assets\default-image-pages.jpg` - 
