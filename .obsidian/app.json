@@ -8,5 +8,6 @@
     "_layouts/",
     "_sass/",
     "_site/"
-  ]
+  ],
+  "livePreview": false
 }

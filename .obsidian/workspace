@@ -7,8 +7,12 @@
         "id": "628d4ff25bc20005",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           }
         ]
@@ -114,11 +122,13 @@
   },
   "active": "628d4ff25bc20005",
   "lastOpenFiles": [
-    "2022-09-10.md",
     "index.md",
+    "README.md",
+    "new-page.md",
+    "blog.md",
+    "2022-09-10.md",
     "about.md",
     "new-quatsch-page.md",
-    "README.md",
     "_site/README.md",
     "assets/minima-social-icons.svg",
     "images/title-logo.png"
