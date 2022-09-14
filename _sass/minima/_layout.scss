@@ -258,13 +258,13 @@
  * User defined additions
   max-width: auto;
   max-height: 100%;
- */
- .site-title-logo {
   width: 25px;
   height: 25px;
-  margin: 10px 10px 0px 0px;
+ */
+ .site-title-logo {
+  margin: 20px 10px 0px 0px;
   object-fit: contain;
-  object-position: 50% 50%;
+  object-position: center center;
   float: left;
 }
 
