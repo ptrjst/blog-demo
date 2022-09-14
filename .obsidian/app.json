@@ -4,10 +4,11 @@
     "en-GB"
   ],
   "userIgnoreFilters": [
-    "_includes/",
-    "_layouts/",
-    "_sass/",
-    "_site/"
+    "//_includes//"
   ],
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "assets",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false
 }

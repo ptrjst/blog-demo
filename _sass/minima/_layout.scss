@@ -258,8 +258,9 @@
  * User defined additions
  */
  .site-title-logo {
+  @include relative-font-size(0.75);
   line-height: $base-line-height * $base-font-size * 2.25;
-  margin-bottom: 0;
+  margin: 0px 20px 0px 0px;
   float: left;
 }
 
