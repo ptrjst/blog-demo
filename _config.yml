@@ -32,8 +32,8 @@ url: "https://ptrjst.github.io" # the base hostname & protocol for your site, e.
 # Social media links to the accounts as below here
 # youtube_username: account ID
 # instagram_username: account ID
-linkedin_username: account ID
-github_username: account ID
+linkedin_username: "account ID"
+github_username: "account ID"
 
 # New fields, not used by default by Jekyll and themes - these required changes to the original minima theme!
 # Copyright, copyright symbol and year (auto)
