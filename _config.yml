@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ptrjst
+title: my little website
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #  Here some good but brief descriptions needs to find it's place.
@@ -37,7 +37,7 @@ github_username: ptrjst
 
 # New fields, not used by default by Jekyll and themes - these required changes to the original minima theme!
 # Copyright, copyright symbol and year (auto)
-copyright: "Peter Joost"
+copyright: "<put authors name here>"
 # the main logo of the page
 title-logo: ./assets/title-logo.png
 # Below change would allow to use a logo from an online source, requires also change in the header.html

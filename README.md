@@ -29,8 +29,8 @@ This file here gets ignored when using the other files as below.
 - `\_posts\2022-08-28-welcome-to-jekyll.md` - example post, copied from the original githup pages publishing
 
 ## other folders and files
-- `_config.yaml_` - 
-- `404.html` - 
+- `_config.yaml` - this is the first file you need to make adjustments in
+- `404.html` - just to a valid error page, just in case any links get broken ;)
 - `\images\post-image.jpg` - 
 - `\assets\default-image-pages.jpg` - 
 - `\assets\default-image-posts.jpg` - 
@@ -65,6 +65,7 @@ Here's the first video of his series on youtube: https://youtu.be/EvYs1idcGnM
 - Default image for pages, photo by <a href="https://unsplash.com/@dimhou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dim Hou</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - Default image for posts, photo by <a href="https://unsplash.com/@patrickperkins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Perkins</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - Example post image, photo by <a href="https://unsplash.com/es/@nika_benedictova?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nika Benedictova</a> on <a href="https://unsplash.com/s/photos/board-game?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Example logo icon found on [fontawesome.com](https://fontawesome.com/icons/face-grin-wink?f=classic&s=regular)
   
 
 # Roadmap and ideas
