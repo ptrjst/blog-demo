@@ -254,6 +254,15 @@
   }
 }
 
+/**
+ * User defined additions
+ */
+ .site-title-logo {
+  line-height: $base-line-height * $base-font-size * 2.25;
+  margin-bottom: 0;
+  float: left;
+}
+
 .header-image{
   width: 100%;
   height: 150px;
