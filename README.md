@@ -1,10 +1,7 @@
-# ptrjst's GitHub pages template
+# ptrjst's GitHub pages template <!-- omit in toc -->
 
 >This repo provides a basic template to get up and running with a nice little website, using GitHub's publishing feature for [webpages](https://pages.github.com/). This template repo is based on the '[Minima](https://jekyll.github.io/minima/)' theme but is not synched to the most updated version. 
 
-# Content
-
-- [ptrjst's GitHub pages template](#ptrjsts-github-pages-template)
 - [Content](#content)
   - [Markdown files](#markdown-files)
   - [other folders and files](#other-folders-and-files)
@@ -15,6 +12,10 @@
   - [Approach followed](#approach-followed)
   - [Images used](#images-used)
 - [Roadmap and ideas](#roadmap-and-ideas)
+
+----
+
+# Content
 
 ## Markdown files
 All markdown files represent single pages which will show on your website. 
