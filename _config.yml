@@ -47,6 +47,7 @@ title-logo: ./assets/title-logo.png
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
 # so not connected to any updates of the original minima theme.
 # theme: minima
+theme: leap-day
 plugins:
   - jekyll-feed
 
