@@ -54,6 +54,7 @@ tbd
 - [Ruby Programming Language](https://www.ruby-lang.org/en/documentation/) (optional, required when doing local development of the themes)
 - [Liquid Language](https://shopify.github.io/liquid/basics/introduction/) (further reading)
 - [Markdown Markup Language](https://www.markdownguide.org/getting-started/) (further reading)
+- [yaml.org](https://yaml.org/)
 
 
 # Credits
