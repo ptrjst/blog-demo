@@ -10,4 +10,12 @@ author: someone else
 This is a second new page ;)
 
 # New Page 2
-with more text.
+with more text and a diagram
+
+```mermaid  
+	graph TD;  
+	A-->B;  
+	A-->C;  
+	B-->D;  
+	C-->D;  
+```
