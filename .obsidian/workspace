@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
-            "mode": "source",
+            "file": "new-page.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "new-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "new-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "new-page.md"
               }
             }
           }
@@ -122,12 +122,12 @@
   },
   "active": "628d4ff25bc20005",
   "lastOpenFiles": [
+    "about.md",
     "index.md",
     "README.md",
     "new-page.md",
     "blog.md",
     "2022-09-10.md",
-    "about.md",
     "new-quatsch-page.md",
     "_site/README.md",
     "assets/minima-social-icons.svg",
