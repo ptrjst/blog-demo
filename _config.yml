@@ -47,6 +47,11 @@ title-logo: ./assets/title-logo.png
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
 # so not connected to any updates of the original minima theme.
 # theme: minima
+# Configurations
+title:            this is the title
+longtitle:        this is the long title
+remote_theme:     sighingnow/jekyll-gitbook
+
 plugins:
   - jekyll-feed
 
